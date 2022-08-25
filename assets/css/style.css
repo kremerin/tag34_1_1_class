@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.bigHeadline {
+    color: crimson;
+    font-size: 4rem;
+}
+
+.listElement1 {
+    color: aqua;
+}
+
+.listElement2 {
+    font-size: 2rem;
+}
+
+.listElement3 {
+    color: cadetblue;
+    font-style: italic;
+}
+
+.listElement4 {
+    font-weight: bold;
+    color:cornflowerblue;
+}
